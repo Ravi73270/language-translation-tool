@@ -23,7 +23,6 @@ LANGUAGES = [
     {"code": "nl",  "name": "Dutch"},
     {"code": "pl",  "name": "Polish"},
     {"code": "sv",  "name": "Swedish"},
-    {"code": "da",  "name": "Danish"},
     {"code": "fi",  "name": "Finnish"},
     {"code": "no",  "name": "Norwegian"},
     {"code": "id",  "name": "Indonesian"},
